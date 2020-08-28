@@ -6,7 +6,7 @@
       "password": "demo",
       "id": 1,
       "balance": {
-        "RUB": 1000,
+        "RUB": 996,
         "USD": 20,
         "EUR": 20,
         "NTC": 3000
@@ -55,17 +55,306 @@
       "password": "demo",
       "id": 5,
       "balance": {
-        "RUB": 60000,
+        "RUB": 60004,
         "USD": 500,
         "EUR": 600,
         "NTC": 90000
+      }
+    },
+    {
+      "created_at": "2020-08-27T12:39:07.226Z",
+      "login": "swsw",
+      "password": "sqqsq",
+      "id": 6,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2020-08-27T12:39:22.134Z",
+      "login": "wdww",
+      "password": "dwdwwdw",
+      "id": 7,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2020-08-27T12:41:31.617Z",
+      "login": "dwdww",
+      "password": "dwdwd",
+      "id": 8,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2020-08-27T12:43:56.614Z",
+      "login": "wdw",
+      "password": "dwwdwdw",
+      "id": 9,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2020-08-27T12:45:22.292Z",
+      "login": "dwwdwd",
+      "password": "dwdw",
+      "id": 10,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2020-08-27T12:45:40.144Z",
+      "login": "dwdwd",
+      "password": "dwdwdw",
+      "id": 11,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2020-08-27T12:45:58.599Z",
+      "login": "oleg@demo",
+      "password": "demo",
+      "id": 12,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2020-08-27T12:47:58.878Z",
+      "login": "ddew",
+      "password": "dwdwwd",
+      "id": 13,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2020-08-27T12:49:06.683Z",
+      "login": "dwdw",
+      "password": "dwdwd",
+      "id": 14,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2020-08-27T12:50:36.058Z",
+      "login": "wdwd",
+      "password": "dwdw",
+      "id": 15,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2020-08-27T12:51:15.541Z",
+      "login": "dqdd",
+      "password": "dqd",
+      "id": 16,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2020-08-27T13:05:38.100Z",
+      "login": "efef",
+      "password": "fefe",
+      "id": 17,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2020-08-27T13:12:26.071Z",
+      "login": "sqsq",
+      "password": "sqqsqs",
+      "id": 18,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2020-08-27T13:13:05.648Z",
+      "login": "sssqs",
+      "password": "sqqsq",
+      "id": 19,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2020-08-27T13:13:59.484Z",
+      "login": "deeded",
+      "password": "dededededed",
+      "id": 20,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2020-08-27T13:16:06.874Z",
+      "login": "12",
+      "password": "11",
+      "id": 21,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2020-08-27T13:18:18.238Z",
+      "login": "qqdq",
+      "password": "qdqdqdqd",
+      "id": 22,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2020-08-27T13:34:13.647Z",
+      "login": "w1w1",
+      "password": "w1w1",
+      "id": 23,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2020-08-27T13:36:55.749Z",
+      "login": "13131",
+      "password": "313131",
+      "id": 24,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2020-08-27T13:44:25.901Z",
+      "login": "sqqsqsqs",
+      "password": "sqsq",
+      "id": 25,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2020-08-27T14:06:07.703Z",
+      "login": "fwfwfw",
+      "password": "fwfwwfw",
+      "id": 26,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2020-08-27T15:16:17.641Z",
+      "login": "121",
+      "password": "sdd",
+      "id": 27,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2020-08-27T16:55:01.955Z",
+      "login": "Sds",
+      "password": "wdwwdw",
+      "id": 28,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2020-08-28T15:11:48.094Z",
+      "login": "e2e22e2",
+      "password": "e2e22e",
+      "id": 29,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
       }
     }
   ],
   "favorites": {
     "1": {
       "2": "Ваня дурачок",
-      "3": "Пират Петр"
+      "3": "Пират Петр",
+      "5": "Руде"
     },
     "2": {
       "1": "Чувак, который должен 20к неткойнов",
